@@ -1,5 +1,7 @@
 #include <cmath>
 #include "image.h"
+#include <iostream>
+#include <math.h>
 
 using namespace std;
 
@@ -11,13 +13,9 @@ float Image::pixel_nearest(float x, float y, int c) const
   {
   // Since you are inside class Image you can
   // use the member function pixel(a,b,c)
-  
-  // TODO: Your code here
-  
-  NOT_IMPLEMENTED();
-  
-  
-  return 0;
+  int x_c = (int) round(x);
+  int y_c = (int) round(y);
+  return clamped_pixel(x_c,y_c,c);
   }
 
 // HW1 #1
@@ -29,11 +27,9 @@ float Image::pixel_bilinear(float x, float y, int c) const
   // Since you are inside class Image you can
   // use the member function pixel(a,b,c)
   
-  
-  // TODO: Your code here
-  
-  NOT_IMPLEMENTED();
-  
+  //make grid
+  //use std:: ceil and std:: floor
+  //compute the formula  
   
   return 0;
   }

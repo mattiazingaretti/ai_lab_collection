@@ -1,0 +1,5 @@
+/home/mattia/ai_labs/repo/ai_lab_collection/esercitazione2/build/CMakeFiles/uwimg++.dir
+/home/mattia/ai_labs/repo/ai_lab_collection/esercitazione2/build/CMakeFiles/test0.dir
+/home/mattia/ai_labs/repo/ai_lab_collection/esercitazione2/build/CMakeFiles/test1.dir
+/home/mattia/ai_labs/repo/ai_lab_collection/esercitazione2/build/CMakeFiles/edit_cache.dir
+/home/mattia/ai_labs/repo/ai_lab_collection/esercitazione2/build/CMakeFiles/rebuild_cache.dir
